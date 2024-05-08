@@ -1,7 +1,4 @@
 sources:
-  - Rubik.glyphs
-  - Rubik-Italic.glyphs
-axisOrder:
-  - wght
-  - ital
-familyName: Rubik
+  - BriemHand.glyphs
+familyName: BriemHand
+buildVariable: false
